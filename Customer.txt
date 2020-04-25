@@ -1,0 +1,42 @@
+3
+Crusty Crab
+Crabby Meal
+Phum Bucket
+Chicken Meal
+Phum Bucket
+Phum Fries
+1 4
+
+5
+Burger Krusty
+The Klogger
+Crusty Crab
+Crabby Patty
+Julio's Lounge
+Plain Water
+3 2
+
+7
+Julio's Lounge
+Choco Omelette
+Burger Krusty
+The Klogger
+Julio's Lounge
+Chocolate Cake
+5 4
+
+10
+Simply Mac
+Cheezy Meat
+Julio's Lounge
+Choco Omelette
+6 0
+
+15
+Phum Bucket
+Phum Fries
+Phum Bucket
+Phum Pie
+Phum Bucket
+Phum Burger
+5 5

@@ -1,0 +1,220 @@
+------------------------------------
+Summary of Burger Krusty restaurant
+------------------------------------
+
+------------------------------------
+Branch at 2 0
+------------------------------------
+Number of customer: 0
+
+The Klogger: 0
+Fish Sandwich: 0
+Twisty Lard: 0
+
+------------------------------------
+Branch at 0 5
+------------------------------------
+Number of customer: 1
+
+The Klogger: 1
+Fish Sandwich: 0
+Twisty Lard: 0
+
+------------------------------------
+Branch at 5 2
+------------------------------------
+Number of customer: 1
+
+The Klogger: 1
+Fish Sandwich: 0
+Twisty Lard: 0
+
+------------------------------------
+Overall
+------------------------------------
+Number of customers: 2
+
+The Klogger: 2
+Fish Sandwich: 0
+Twisty Lard: 0
+------------------------------------
+------------------------------------
+Summary of Burger Krusty restaurant
+------------------------------------
+
+------------------------------------
+Branch at 2 0
+------------------------------------
+Number of customer: 0
+
+The Klogger: 0
+Fish Sandwich: 0
+
+------------------------------------
+Branch at 0 5
+------------------------------------
+Number of customer: 1
+
+The Klogger: 1
+Fish Sandwich: 0
+
+------------------------------------
+Branch at 5 2
+------------------------------------
+Number of customer: 1
+
+The Klogger: 1
+Fish Sandwich: 0
+
+------------------------------------
+Overall
+------------------------------------
+Number of customers: 2
+
+The Klogger: 2
+Fish Sandwich: 0
+------------------------------------
+------------------------------------
+Summary of Burger Krusty restaurant
+------------------------------------
+
+------------------------------------
+Branch at 2 0
+------------------------------------
+Number of customer: 0
+
+The Klogger: 0
+Fish Sandwich: 0
+
+------------------------------------
+Branch at 0 5
+------------------------------------
+Number of customer: 1
+
+The Klogger: 1
+Fish Sandwich: 0
+
+------------------------------------
+Branch at 5 2
+------------------------------------
+Number of customer: 1
+
+The Klogger: 1
+Fish Sandwich: 0
+
+------------------------------------
+Overall
+------------------------------------
+Number of customers: 2
+
+The Klogger: 2
+Fish Sandwich: 0
+------------------------------------
+------------------------------------
+Summary of Burger Krusty restaurant
+------------------------------------
+
+------------------------------------
+Branch at 2 0
+------------------------------------
+Number of customer: 0
+
+The Klogger: 0
+Fish Sandwich: 0
+
+------------------------------------
+Branch at 0 5
+------------------------------------
+Number of customer: 1
+
+The Klogger: 1
+Fish Sandwich: 0
+
+------------------------------------
+Branch at 5 2
+------------------------------------
+Number of customer: 1
+
+The Klogger: 1
+Fish Sandwich: 0
+
+------------------------------------
+Overall
+------------------------------------
+Number of customers: 2
+
+The Klogger: 2
+Fish Sandwich: 0
+------------------------------------
+------------------------------------
+Summary of Burger Krusty restaurant
+------------------------------------
+
+------------------------------------
+Branch at 2 0
+------------------------------------
+Number of customer: 0
+
+The Klogger: 0
+Fish Sandwich: 0
+
+------------------------------------
+Branch at 0 5
+------------------------------------
+Number of customer: 1
+
+The Klogger: 1
+Fish Sandwich: 0
+
+------------------------------------
+Branch at 5 2
+------------------------------------
+Number of customer: 1
+
+The Klogger: 1
+Fish Sandwich: 0
+
+------------------------------------
+Overall
+------------------------------------
+Number of customers: 2
+
+The Klogger: 2
+Fish Sandwich: 0
+------------------------------------
+------------------------------------
+Summary of Burger Krusty restaurant
+------------------------------------
+
+------------------------------------
+Branch at 2 0
+------------------------------------
+Number of customer: 0
+
+The Klogger: 0
+Fish Sandwich: 0
+
+------------------------------------
+Branch at 0 5
+------------------------------------
+Number of customer: 1
+
+The Klogger: 1
+Fish Sandwich: 0
+
+------------------------------------
+Branch at 5 2
+------------------------------------
+Number of customer: 1
+
+The Klogger: 1
+Fish Sandwich: 0
+
+------------------------------------
+Overall
+------------------------------------
+Number of customers: 2
+
+The Klogger: 2
+Fish Sandwich: 0
+------------------------------------

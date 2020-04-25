@@ -1,0 +1,61 @@
+Crusty Crab
+3 3
+5 0
+1 0
+Crabby Patty
+12
+Crabby Meal
+14
+Sailors Suprise
+10
+
+
+Phum Bucket
+3 5
+0 3
+4 1
+6 4
+Phum Burger
+08
+Phum Fries
+07
+Phum Pie
+05
+Chicken Meal
+14
+
+Burger Krusty
+2 0
+0 5
+5 2
+The Klogger
+13
+Fish Sandwich
+08
+
+Julio's Lounge
+2 6
+1 2
+4 0
+Fantastic Burger
+15
+Julio's Meaty
+12
+Choco Omelette
+05
+Plain Water
+12
+Chocolate Cake
+15
+
+Simply Mac
+4 6
+0 2
+6 1
+Simply Burger
+12
+Jumbo Fries
+07
+Cheezy Meat
+16
+

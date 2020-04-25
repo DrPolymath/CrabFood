@@ -1,0 +1,240 @@
+------------------------------------
+Summary of Crusty Crab restaurant
+------------------------------------
+
+------------------------------------
+Branch at 3 3
+------------------------------------
+Number of customer: 2
+
+Crabby Patty: 1
+Crabby Meal: 1
+Sailors Suprise: 0
+
+------------------------------------
+Branch at 5 0
+------------------------------------
+Number of customer: 0
+
+Crabby Patty: 0
+Crabby Meal: 0
+Sailors Suprise: 0
+
+------------------------------------
+Branch at 1 0
+------------------------------------
+Number of customer: 0
+
+Crabby Patty: 0
+Crabby Meal: 0
+Sailors Suprise: 0
+
+------------------------------------
+Overall
+------------------------------------
+Number of customers: 2
+
+Crabby Patty: 1
+Crabby Meal: 1
+Sailors Suprise: 0
+------------------------------------
+------------------------------------
+Summary of Crusty Crab restaurant
+------------------------------------
+
+------------------------------------
+Branch at 3 3
+------------------------------------
+Number of customer: 2
+
+Crabby Patty: 1
+Crabby Meal: 1
+Sailors Suprise: 0
+
+------------------------------------
+Branch at 5 0
+------------------------------------
+Number of customer: 0
+
+Crabby Patty: 0
+Crabby Meal: 0
+Sailors Suprise: 0
+
+------------------------------------
+Branch at 1 0
+------------------------------------
+Number of customer: 0
+
+Crabby Patty: 0
+Crabby Meal: 0
+Sailors Suprise: 0
+
+------------------------------------
+Overall
+------------------------------------
+Number of customers: 2
+
+Crabby Patty: 1
+Crabby Meal: 1
+Sailors Suprise: 0
+------------------------------------
+------------------------------------
+Summary of Crusty Crab restaurant
+------------------------------------
+
+------------------------------------
+Branch at 3 3
+------------------------------------
+Number of customer: 2
+
+Crabby Patty: 1
+Crabby Meal: 1
+Sailors Suprise: 0
+
+------------------------------------
+Branch at 5 0
+------------------------------------
+Number of customer: 0
+
+Crabby Patty: 0
+Crabby Meal: 0
+Sailors Suprise: 0
+
+------------------------------------
+Branch at 1 0
+------------------------------------
+Number of customer: 0
+
+Crabby Patty: 0
+Crabby Meal: 0
+Sailors Suprise: 0
+
+------------------------------------
+Overall
+------------------------------------
+Number of customers: 2
+
+Crabby Patty: 1
+Crabby Meal: 1
+Sailors Suprise: 0
+------------------------------------
+------------------------------------
+Summary of Crusty Crab restaurant
+------------------------------------
+
+------------------------------------
+Branch at 3 3
+------------------------------------
+Number of customer: 2
+
+Crabby Patty: 1
+Crabby Meal: 1
+Sailors Suprise: 0
+
+------------------------------------
+Branch at 5 0
+------------------------------------
+Number of customer: 0
+
+Crabby Patty: 0
+Crabby Meal: 0
+Sailors Suprise: 0
+
+------------------------------------
+Branch at 1 0
+------------------------------------
+Number of customer: 0
+
+Crabby Patty: 0
+Crabby Meal: 0
+Sailors Suprise: 0
+
+------------------------------------
+Overall
+------------------------------------
+Number of customers: 2
+
+Crabby Patty: 1
+Crabby Meal: 1
+Sailors Suprise: 0
+------------------------------------
+------------------------------------
+Summary of Crusty Crab restaurant
+------------------------------------
+
+------------------------------------
+Branch at 3 3
+------------------------------------
+Number of customer: 2
+
+Crabby Patty: 1
+Crabby Meal: 1
+Sailors Suprise: 0
+
+------------------------------------
+Branch at 5 0
+------------------------------------
+Number of customer: 0
+
+Crabby Patty: 0
+Crabby Meal: 0
+Sailors Suprise: 0
+
+------------------------------------
+Branch at 1 0
+------------------------------------
+Number of customer: 0
+
+Crabby Patty: 0
+Crabby Meal: 0
+Sailors Suprise: 0
+
+------------------------------------
+Overall
+------------------------------------
+Number of customers: 2
+
+Crabby Patty: 1
+Crabby Meal: 1
+Sailors Suprise: 0
+------------------------------------
+------------------------------------
+Summary of Crusty Crab restaurant
+------------------------------------
+
+------------------------------------
+Branch at 3 3
+------------------------------------
+Number of customer: 2
+
+Crabby Patty: 1
+Crabby Meal: 1
+Sailors Suprise: 0
+
+------------------------------------
+Branch at 5 0
+------------------------------------
+Number of customer: 0
+
+Crabby Patty: 0
+Crabby Meal: 0
+Sailors Suprise: 0
+
+------------------------------------
+Branch at 1 0
+------------------------------------
+Number of customer: 0
+
+Crabby Patty: 0
+Crabby Meal: 0
+Sailors Suprise: 0
+
+------------------------------------
+Overall
+------------------------------------
+Number of customers: 2
+
+Crabby Patty: 1
+Crabby Meal: 1
+Sailors Suprise: 0
+------------------------------------

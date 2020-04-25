@@ -1,0 +1,280 @@
+------------------------------------
+Summary of Julio's Lounge restaurant
+------------------------------------
+
+------------------------------------
+Branch at 2 6
+------------------------------------
+Number of customer: 0
+
+Fantastic Burger: 0
+Julio's Meaty: 0
+Choco Omelette: 0
+
+------------------------------------
+Branch at 1 2
+------------------------------------
+Number of customer: 0
+
+Fantastic Burger: 0
+Julio's Meaty: 0
+Choco Omelette: 0
+
+------------------------------------
+Branch at 4 0
+------------------------------------
+Number of customer: 2
+
+Fantastic Burger: 0
+Julio's Meaty: 0
+Choco Omelette: 2
+
+------------------------------------
+Overall
+------------------------------------
+Number of customers: 2
+
+Fantastic Burger: 0
+Julio's Meaty: 0
+Choco Omelette: 2
+------------------------------------
+------------------------------------
+Summary of Julio's Lounge restaurant
+------------------------------------
+
+------------------------------------
+Branch at 2 6
+------------------------------------
+Number of customer: 0
+
+Fantastic Burger: 0
+Julio's Meaty: 0
+Choco Omelette: 0
+Plain Water: 0
+Chocolate Cake: 0
+
+------------------------------------
+Branch at 1 2
+------------------------------------
+Number of customer: 0
+
+Fantastic Burger: 0
+Julio's Meaty: 0
+Choco Omelette: 0
+Plain Water: 0
+Chocolate Cake: 0
+
+------------------------------------
+Branch at 4 0
+------------------------------------
+Number of customer: 2
+
+Fantastic Burger: 0
+Julio's Meaty: 0
+Choco Omelette: 2
+Plain Water: 0
+Chocolate Cake: 0
+
+------------------------------------
+Overall
+------------------------------------
+Number of customers: 2
+
+Fantastic Burger: 0
+Julio's Meaty: 0
+Choco Omelette: 2
+Plain Water: 0
+Chocolate Cake: 0
+------------------------------------
+------------------------------------
+Summary of Julio's Lounge restaurant
+------------------------------------
+
+------------------------------------
+Branch at 2 6
+------------------------------------
+Number of customer: 0
+
+Fantastic Burger: 0
+Julio's Meaty: 0
+Choco Omelette: 0
+Plain Water: 0
+Chocolate Cake: 0
+
+------------------------------------
+Branch at 1 2
+------------------------------------
+Number of customer: 2
+
+Fantastic Burger: 0
+Julio's Meaty: 0
+Choco Omelette: 1
+Plain Water: 1
+Chocolate Cake: 0
+
+------------------------------------
+Branch at 4 0
+------------------------------------
+Number of customer: 2
+
+Fantastic Burger: 0
+Julio's Meaty: 0
+Choco Omelette: 1
+Plain Water: 0
+Chocolate Cake: 1
+
+------------------------------------
+Overall
+------------------------------------
+Number of customers: 4
+
+Fantastic Burger: 0
+Julio's Meaty: 0
+Choco Omelette: 2
+Plain Water: 1
+Chocolate Cake: 1
+------------------------------------
+------------------------------------
+Summary of Julio's Lounge restaurant
+------------------------------------
+
+------------------------------------
+Branch at 2 6
+------------------------------------
+Number of customer: 0
+
+Fantastic Burger: 0
+Julio's Meaty: 0
+Choco Omelette: 0
+Plain Water: 0
+Chocolate Cake: 0
+
+------------------------------------
+Branch at 1 2
+------------------------------------
+Number of customer: 2
+
+Fantastic Burger: 0
+Julio's Meaty: 0
+Choco Omelette: 1
+Plain Water: 1
+Chocolate Cake: 0
+
+------------------------------------
+Branch at 4 0
+------------------------------------
+Number of customer: 2
+
+Fantastic Burger: 0
+Julio's Meaty: 0
+Choco Omelette: 1
+Plain Water: 0
+Chocolate Cake: 1
+
+------------------------------------
+Overall
+------------------------------------
+Number of customers: 4
+
+Fantastic Burger: 0
+Julio's Meaty: 0
+Choco Omelette: 2
+Plain Water: 1
+Chocolate Cake: 1
+------------------------------------
+------------------------------------
+Summary of Julio's Lounge restaurant
+------------------------------------
+
+------------------------------------
+Branch at 2 6
+------------------------------------
+Number of customer: 0
+
+Fantastic Burger: 0
+Julio's Meaty: 0
+Choco Omelette: 0
+Plain Water: 0
+Chocolate Cake: 0
+
+------------------------------------
+Branch at 1 2
+------------------------------------
+Number of customer: 2
+
+Fantastic Burger: 0
+Julio's Meaty: 0
+Choco Omelette: 1
+Plain Water: 1
+Chocolate Cake: 0
+
+------------------------------------
+Branch at 4 0
+------------------------------------
+Number of customer: 2
+
+Fantastic Burger: 0
+Julio's Meaty: 0
+Choco Omelette: 1
+Plain Water: 0
+Chocolate Cake: 1
+
+------------------------------------
+Overall
+------------------------------------
+Number of customers: 4
+
+Fantastic Burger: 0
+Julio's Meaty: 0
+Choco Omelette: 2
+Plain Water: 1
+Chocolate Cake: 1
+------------------------------------
+------------------------------------
+Summary of Julio's Lounge restaurant
+------------------------------------
+
+------------------------------------
+Branch at 2 6
+------------------------------------
+Number of customer: 0
+
+Fantastic Burger: 0
+Julio's Meaty: 0
+Choco Omelette: 0
+Plain Water: 0
+Chocolate Cake: 0
+
+------------------------------------
+Branch at 1 2
+------------------------------------
+Number of customer: 2
+
+Fantastic Burger: 0
+Julio's Meaty: 0
+Choco Omelette: 1
+Plain Water: 1
+Chocolate Cake: 0
+
+------------------------------------
+Branch at 4 0
+------------------------------------
+Number of customer: 2
+
+Fantastic Burger: 0
+Julio's Meaty: 0
+Choco Omelette: 1
+Plain Water: 0
+Chocolate Cake: 1
+
+------------------------------------
+Overall
+------------------------------------
+Number of customers: 4
+
+Fantastic Burger: 0
+Julio's Meaty: 0
+Choco Omelette: 2
+Plain Water: 1
+Chocolate Cake: 1
+------------------------------------

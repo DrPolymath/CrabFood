@@ -1,0 +1,319 @@
+------------------------------------
+Summary of Phum Bucket restaurant
+------------------------------------
+
+------------------------------------
+Branch at 3 5
+------------------------------------
+Number of customer: 0
+
+Phum Burger: 0
+Phum Fries: 0
+Phum Pie: 0
+
+------------------------------------
+Branch at 0 3
+------------------------------------
+Number of customer: 1
+
+Phum Burger: 0
+Phum Fries: 1
+Phum Pie: 0
+
+------------------------------------
+Branch at 4 1
+------------------------------------
+Number of customer: 0
+
+Phum Burger: 0
+Phum Fries: 0
+Phum Pie: 0
+
+------------------------------------
+Branch at 6 4
+------------------------------------
+Number of customer: 3
+
+Phum Burger: 1
+Phum Fries: 1
+Phum Pie: 1
+
+------------------------------------
+Overall
+------------------------------------
+Number of customers: 4
+
+Phum Burger: 1
+Phum Fries: 2
+Phum Pie: 1
+------------------------------------
+------------------------------------
+Summary of Phum Bucket restaurant
+------------------------------------
+
+------------------------------------
+Branch at 3 5
+------------------------------------
+Number of customer: 0
+
+Phum Burger: 0
+Phum Fries: 0
+Phum Pie: 0
+Chicken Meal: 0
+
+------------------------------------
+Branch at 0 3
+------------------------------------
+Number of customer: 1
+
+Phum Burger: 0
+Phum Fries: 1
+Phum Pie: 0
+Chicken Meal: 0
+
+------------------------------------
+Branch at 4 1
+------------------------------------
+Number of customer: 0
+
+Phum Burger: 0
+Phum Fries: 0
+Phum Pie: 0
+Chicken Meal: 0
+
+------------------------------------
+Branch at 6 4
+------------------------------------
+Number of customer: 3
+
+Phum Burger: 1
+Phum Fries: 1
+Phum Pie: 1
+Chicken Meal: 0
+
+------------------------------------
+Overall
+------------------------------------
+Number of customers: 4
+
+Phum Burger: 1
+Phum Fries: 2
+Phum Pie: 1
+Chicken Meal: 0
+------------------------------------
+------------------------------------
+Summary of Phum Bucket restaurant
+------------------------------------
+
+------------------------------------
+Branch at 3 5
+------------------------------------
+Number of customer: 0
+
+Phum Burger: 0
+Phum Fries: 0
+Phum Pie: 0
+Chicken Meal: 0
+
+------------------------------------
+Branch at 0 3
+------------------------------------
+Number of customer: 2
+
+Phum Burger: 0
+Phum Fries: 1
+Phum Pie: 0
+Chicken Meal: 1
+
+------------------------------------
+Branch at 4 1
+------------------------------------
+Number of customer: 0
+
+Phum Burger: 0
+Phum Fries: 0
+Phum Pie: 0
+Chicken Meal: 0
+
+------------------------------------
+Branch at 6 4
+------------------------------------
+Number of customer: 3
+
+Phum Burger: 1
+Phum Fries: 1
+Phum Pie: 1
+Chicken Meal: 0
+
+------------------------------------
+Overall
+------------------------------------
+Number of customers: 5
+
+Phum Burger: 1
+Phum Fries: 2
+Phum Pie: 1
+Chicken Meal: 1
+------------------------------------
+------------------------------------
+Summary of Phum Bucket restaurant
+------------------------------------
+
+------------------------------------
+Branch at 3 5
+------------------------------------
+Number of customer: 0
+
+Phum Burger: 0
+Phum Fries: 0
+Phum Pie: 0
+Chicken Meal: 0
+
+------------------------------------
+Branch at 0 3
+------------------------------------
+Number of customer: 2
+
+Phum Burger: 0
+Phum Fries: 1
+Phum Pie: 0
+Chicken Meal: 1
+
+------------------------------------
+Branch at 4 1
+------------------------------------
+Number of customer: 0
+
+Phum Burger: 0
+Phum Fries: 0
+Phum Pie: 0
+Chicken Meal: 0
+
+------------------------------------
+Branch at 6 4
+------------------------------------
+Number of customer: 3
+
+Phum Burger: 1
+Phum Fries: 1
+Phum Pie: 1
+Chicken Meal: 0
+
+------------------------------------
+Overall
+------------------------------------
+Number of customers: 5
+
+Phum Burger: 1
+Phum Fries: 2
+Phum Pie: 1
+Chicken Meal: 1
+------------------------------------
+------------------------------------
+Summary of Phum Bucket restaurant
+------------------------------------
+
+------------------------------------
+Branch at 3 5
+------------------------------------
+Number of customer: 0
+
+Phum Burger: 0
+Phum Fries: 0
+Phum Pie: 0
+Chicken Meal: 0
+
+------------------------------------
+Branch at 0 3
+------------------------------------
+Number of customer: 2
+
+Phum Burger: 0
+Phum Fries: 1
+Phum Pie: 0
+Chicken Meal: 1
+
+------------------------------------
+Branch at 4 1
+------------------------------------
+Number of customer: 0
+
+Phum Burger: 0
+Phum Fries: 0
+Phum Pie: 0
+Chicken Meal: 0
+
+------------------------------------
+Branch at 6 4
+------------------------------------
+Number of customer: 3
+
+Phum Burger: 1
+Phum Fries: 1
+Phum Pie: 1
+Chicken Meal: 0
+
+------------------------------------
+Overall
+------------------------------------
+Number of customers: 5
+
+Phum Burger: 1
+Phum Fries: 2
+Phum Pie: 1
+Chicken Meal: 1
+------------------------------------
+------------------------------------
+Summary of Phum Bucket restaurant
+------------------------------------
+
+------------------------------------
+Branch at 3 5
+------------------------------------
+Number of customer: 0
+
+Phum Burger: 0
+Phum Fries: 0
+Phum Pie: 0
+Chicken Meal: 0
+
+------------------------------------
+Branch at 0 3
+------------------------------------
+Number of customer: 2
+
+Phum Burger: 0
+Phum Fries: 1
+Phum Pie: 0
+Chicken Meal: 1
+
+------------------------------------
+Branch at 4 1
+------------------------------------
+Number of customer: 0
+
+Phum Burger: 0
+Phum Fries: 0
+Phum Pie: 0
+Chicken Meal: 0
+
+------------------------------------
+Branch at 6 4
+------------------------------------
+Number of customer: 3
+
+Phum Burger: 1
+Phum Fries: 1
+Phum Pie: 1
+Chicken Meal: 0
+
+------------------------------------
+Overall
+------------------------------------
+Number of customers: 5
+
+Phum Burger: 1
+Phum Fries: 2
+Phum Pie: 1
+Chicken Meal: 1
+------------------------------------
